@@ -20,8 +20,7 @@ def main():
                     SelectOperation()
                     exit()
 
-            #if a is not int or b is not int or c is not int:
-                #print("a ∉ IZ or b ∉ IZ or c ∉ IZ")
+            
             discriminant = b ** 2 - 4 * a * c
 
 
